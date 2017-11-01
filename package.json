@@ -1,0 +1,10 @@
+{
+  "name": "better-images",
+  "version": "1.0.0",
+  "main": "CreateThumbnail.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "gm": "^1.23.0"
+  }
+}
